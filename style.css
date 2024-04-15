@@ -1,0 +1,31 @@
+nav img{
+    width: 80px;
+}
+
+.carousel-item {
+    height: 600px;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.info{
+    
+    background-image: url("")
+}
+
+.cursos img{
+    width: 947px;
+}
+
+body{
+    background-image: url();
+}
+
+.about-us h5{
+    text-align: center;
+    font-size: 80px;
+    padding: 10px;
+}
